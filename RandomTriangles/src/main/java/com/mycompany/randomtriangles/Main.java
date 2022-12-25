@@ -4,10 +4,6 @@
  */
 package com.mycompany.randomtriangles;
 import java.util.Scanner;
-/**
- *
- * @author Max
- */
 public class Main {
 
     /**
